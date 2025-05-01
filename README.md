@@ -18,6 +18,15 @@ The maintainer of Obtainium also hosts a collection of Crowdsourced app configur
 
 ### Option 2. Click to Install method
 
+- [**App Store**](https://github.com/admyrick/Obtainium-Emulation-Pack/tree/main?tab=readme-ov-file#app-store)
+- [**Emulators**](https://github.com/admyrick/Obtainium-Emulation-Pack/tree/main?tab=readme-ov-file#emulators)
+- [**File Management**](https://github.com/admyrick/Obtainium-Emulation-Pack/tree/main?tab=readme-ov-file#file-management)
+- [**Games/Ports**](https://github.com/admyrick/Obtainium-Emulation-Pack/tree/main?tab=readme-ov-file#gamesports)
+- [**Launchers**](https://github.com/admyrick/Obtainium-Emulation-Pack/tree/main?tab=readme-ov-file#launchers)
+- [**Streaming**](https://github.com/admyrick/Obtainium-Emulation-Pack/tree/main?tab=readme-ov-file#streaming)
+- [**Track Only**](https://github.com/admyrick/Obtainium-Emulation-Pack/tree/main?tab=readme-ov-file#track-only)
+- [**Utility**](https://github.com/admyrick/Obtainium-Emulation-Pack/tree/main?tab=readme-ov-file#utility)
+
 #### App Store
 
 | Application                     | Category        | Add to Obtainium | Additional Info |
