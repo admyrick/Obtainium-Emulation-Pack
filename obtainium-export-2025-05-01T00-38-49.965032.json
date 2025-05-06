@@ -1602,7 +1602,7 @@
             "F-Droid Official"
         ],
         "updateInterval": 1440,
-        "github-creds": "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",
+        "github-creds": "",
         "installMethod": 0,
         "colour": 0,
         "useSystemFont": true,
