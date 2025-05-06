@@ -739,22 +739,13 @@
             "id": "com.github.stenzek.duckstation",
             "url": "https://downloads.duckstation.org/android/",
             "author": "downloads.duckstation.org",
-            "name": "DuckStation",
-            "installedVersion": null,
-            "latestVersion": "727772435",
-            "apkUrls": "[[\"727772435-duckstation-android-2024.apk\",\"https://www.duckstation.org/android/duckstation-android-2024.apk\"]]",
-            "otherAssetUrls": "[]",
+            "name": "DuckStation (Beta)",
             "preferredApkIndex": 0,
-            "additionalSettings": "{\"intermediateLink\":[],\"customLinkFilterRegex\":\"\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":true,\"sortByLastLinkSegment\":false,\"versionExtractWholePage\":false,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"APKLinkHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"DuckStation\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"supportFixedAPKURL\":false}",
-            "lastUpdateCheck": 1746066938669921,
-            "pinned": false,
+            "additionalSettings": "{\"intermediateLink\":[],\"customLinkFilterRegex\":\"https://www.duckstation.org/android/duckstation-(beta|android).apk\",\"filterByLinkText\":true,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false,\"versionExtractWholePage\":true,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"partialAPKHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"<ul>[\\\\s\\\\S]*?<li>\\\\d{4}/\\\\d{2}/\\\\d{2} \\\\((\\\\d+\\\\.\\\\d+-\\\\d+)\\\\)\",\"matchGroupToUse\":\"1\",\"versionDetection\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
             "categories": [
-                "Emulator"
-            ],
-            "releaseDate": null,
-            "changeLog": null,
-            "overrideSource": null,
-            "allowIdChange": false
+              "Emulator"
+          ],
+            "overrideSource": "HTML"
         },
         {
             "id": "org.proninyaroslav.libretorrent",
@@ -1223,22 +1214,14 @@
             "id": "org.dolphinemu.dolphinemu",
             "url": "https://dolphin-emu.org/download/?ref=btn",
             "author": "dolphin-emu.org",
-            "name": "Dolphin Emulator",
-            "installedVersion": null,
-            "latestVersion": "5.0-21543.apk",
-            "apkUrls": "[[\"https://dl.dolphin-emu.org/builds/76/ba/dolphin-master-5.0-21543.apk\",\"https://dl.dolphin-emu.org/builds/76/ba/dolphin-master-5.0-21543.apk\"]]",
-            "otherAssetUrls": "[]",
+            "name": "Dolphin Emulator (Dev build)",
+            "apkUrls": "[[\"182947822-dolphin-master-2503a-280.apk\",\"https://dl.dolphin-emu.org/builds/b7/5c/dolphin-master-2503a-280.apk\"]]",
             "preferredApkIndex": 0,
-            "additionalSettings": "{\"intermediateLink\":[],\"customLinkFilterRegex\":\"https:\\\\/\\\\/dl.dolphin-emu.org\\\\/builds.+dolphin-master-.+.apk\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":true,\"versionExtractWholePage\":false,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"partialAPKHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"\\\\d.\\\\d-\\\\d+.apk\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"A nightly build version of Dolphin Emulator, a popular emulator for Nintendo GameCube and Wii games, allowing users to play console games on Android devices.\",\"refreshBeforeDownload\":false,\"supportFixedAPKURL\":true,\"sortByFileNamesNotLinks\":true,\"intermediateLinkRegex\":\"\"}",
-            "lastUpdateCheck": 1715730799814027,
-            "pinned": false,
+            "additionalSettings": "{\"intermediateLink\":[],\"customLinkFilterRegex\":\"https:\\\\/\\\\/dl.dolphin-emu.org\\\\/builds.+dolphin-master-.+.apk\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":true,\"versionExtractWholePage\":false,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"partialAPKHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"dolphin-master-(.+).apk\",\"matchGroupToUse\":\"$1\",\"versionDetection\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Dolphin Emulator (Dev build)\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
             "categories": [
-                "Emulator"
-            ],
-            "releaseDate": null,
-            "changeLog": null,
-            "overrideSource": null,
-            "allowIdChange": false
+              "Emulator"
+      ],
+            "overrideSource": "HTML"
         },
         {
             "id": "183968809",
